@@ -1,2 +1,2 @@
-# js.basic
+# Java Script......basic.
 learnig the javascript
